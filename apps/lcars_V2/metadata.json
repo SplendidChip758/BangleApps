@@ -1,7 +1,7 @@
 {
-  "id": "lcars",
-  "name": "LCARS Clock",
-  "shortName":"LCARS",
+  "id": "lcarsv2",
+  "name": "LCARS Clock custome",
+  "shortName":"LCARSv2",
   "icon": "lcars.png",
   "version":"0.22",
   "readme": "README.md",
